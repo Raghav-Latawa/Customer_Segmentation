@@ -42,10 +42,10 @@ This project applies **unsupervised machine learning** (K-Means Clustering) to s
 
 ##  Visualizations
 
-- 📈 Elbow Curve for K optimization  
-- 🧩 2D/3D Cluster Plots  
-- 📉 Spending vs Income per segment  
-- 🧠 (Optional) Power BI Dashboard for segment drill-down
+-  Elbow Curve for K optimization  
+-  2D/3D Cluster Plots  
+-  Spending vs Income per segment  
+-  (Optional) Power BI Dashboard for segment drill-down
 
 ---
 
